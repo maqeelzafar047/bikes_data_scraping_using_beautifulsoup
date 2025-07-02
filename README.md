@@ -116,9 +116,8 @@ year      model
 - Brand popularity comparison
 
 
+## **Disclaimer**
 
-## **License & Credits**
-
-This project is created for **educational** and data collection purposes only.
+This project is created by M Aqeel Zafar and is intended for educational purposes only. It is not affiliated with or endorsed by bikez.com. Do not use this script for any commercial or abusive activities. Always respect websites' terms of service.
 
 ---
